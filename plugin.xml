@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<plugin id="InsertStatusBar" version="1.0.0" xmlns="http://apache.org/cordova/ns/plugins/1.0" xmlns:android="http://schemas.android.com/apk/res/android">
+    <name>InsertStatusBar</name>
+    <platform name="ios">
+        <config-file parent="/*" target="config.xml">
+            <feature name="InsertStatusBar">
+                <param name="ios-package" value="InsertStatusBar" />
+                <param name="onload" value="true" />
+            </feature>
+        </config-file>
+        <source-file src="src/InsertStatusBar.m" />
+    </platform>
+</plugin>

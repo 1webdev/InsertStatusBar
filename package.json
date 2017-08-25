@@ -1,0 +1,25 @@
+{
+  "name": "InsertStatusBar",
+  "version": "1.0.0",
+  "description": "Plugin to disable the iOS 11 statusbar",
+  "cordova": {
+    "id": "InsertStatusBar",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1webdev/InsertStatusBar.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "1webDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1webdev/InsertStatusBar/issues"
+  },
+  "homepage": "https://github.com/1webdev/InsertStatusBar#readme"
+}
