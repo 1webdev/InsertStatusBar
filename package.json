@@ -1,9 +1,9 @@
 {
-  "name": "InsertStatusBar",
+  "name": "cordova-plugin-ios11-inset-statusbar",
   "version": "1.0.0",
   "description": "Plugin to disable the iOS 11 statusbar",
   "cordova": {
-    "id": "InsertStatusBar",
+    "id": "cordova-plugin-ios11-inset-statusbar",
     "platforms": [
       "ios"
     ]
